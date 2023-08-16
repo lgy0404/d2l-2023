@@ -3,16 +3,12 @@
 - 官方资料：[课程主页](https://courses.d2l.ai/zh-v2/)  [教材](https://zh-v2.d2l.ai/)
 - 备注：更正了[AccumulateMore/CV](https://github.com/AccumulateMore/CV)笔记的部分错误，从更加初级的角度做了部分内容补充，沐神的视频讲解在这里[跟李沐学AI的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
 
-## 📝一个示例
-
-[009_Softmax回归、损失函数、分类的笔记预览](./demo.html)
-
 ## 🆕最新消息
 
 - 2023年8月15日：上传了前8章笔记内容（前2章为介绍性内容做了神略）
 - 2023年8月16日：上传了第9章笔记内容，本章开始对Q&A部分也进行简要总结
 
-📔笔记目录
+## 📔笔记目录
 
 [003_配置版本](./003_配置版本.ipynb)
 
