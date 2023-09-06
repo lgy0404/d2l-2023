@@ -2,6 +2,7 @@
 
 - 官方资料：[课程主页](https://courses.d2l.ai/zh-v2/)  [教材](https://zh-v2.d2l.ai/)
 - 备注：更正了[AccumulateMore/CV](https://github.com/AccumulateMore/CV)笔记的部分错误，从更加初级的角度做了部分内容补充，沐神的视频讲解在这里[跟李沐学AI的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
+- ❤️对你有帮助的话点个star吧~❤️
 
 ## 🆕最新消息
 
@@ -29,7 +30,5 @@
 
 - 2023年9月5日：
 	- 上传了 **AlexNet、VGG、NiN** 的笔记内容
-
----
-
-❤️对你有帮助的话点个star吧~❤️
+- 2023年9月7日：
+  - 上传了 **027合并行连接的网络GoogLeNet** 的笔记内容
